@@ -5,5 +5,6 @@
  Sandrine TUYIZERE
  
  ## LANGUAGE USED
- * Html
- * Css
+ * Html 5
+ * Css 3
+ 
